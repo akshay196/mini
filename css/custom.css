@@ -2,44 +2,44 @@
 	padding-top: 7px;
 	padding-bottom: 0px;
 	margin-bottom: 40px;
-	background-color: #d4ff66;
+	background-color: #3caf5b;
 	border-radius: 0px;
 }
 
 .btn-group-lg > .btn-primary {
 	color: Black;
-	background-color: #b8ff00;
-	border-color: #b8ff00;
+	background-color: #f1e4d5;
+	border-color: #f1e4d5;
 	border-radius: 0px;
 }
 .btn-primary:focus,
 .btn-primary.focus {
   color: #fff;
-  background-color: #81b300;
-  border-color: #81b300;
+  background-color: #3caf5b;
+  border-color: #3caf5b;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #81b300;
-  border-color: #204d74;
+  background-color: #3caf5b;
+  border-color: #3caf5b;
 }
 
 .btn-group-lg > .btn-default {
   color: Black;
-  background-color: #a6e600;
-  border-color: #a6e600;
+  background-color: #25b03f;
+  border-color: #25b03f;
   border-radius: 0px;
 }
 .btn-default:focus,
 .btn-default.focus {
   color: #fff;
-  background-color: #81b300;
-  border-color: #81b300;
+  background-color: #3caf5b;
+  border-color: #3caf5b;
 }
 .btn-default:hover {
   color: #fff;
-  background-color: #81b300;
-  border-color: #204d74;
+  background-color: ##2b6032;
+  border-color: #2b6032;
 }
 
 
